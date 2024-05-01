@@ -1,0 +1,19 @@
+{
+  "name": "ts_projects-03",
+  "version": "1.0.1",
+  "description": "To Do List based on Typescript, Node.js and Inquirer.",
+  "main": "class-03.js",
+  "type": "module",
+  "bin": "class-03.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bushra khan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
